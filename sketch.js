@@ -50,5 +50,5 @@ function draw() {
 
 // Save picture function
 function savePic() {
-  saveCanvas('slitScan', 'jpg');
+  saveCanvas('slitScan', 'png');
 }
